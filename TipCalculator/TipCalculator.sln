@@ -1,0 +1,33 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TipCalculator.Android", "TipCalculator.Android\TipCalculator.Android.csproj", "{820FF283-B34F-40B5-B2D0-5A038BEC0D15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TipCalculator.iOS", "TipCalculator.iOS\TipCalculator.iOS.csproj", "{B0633E21-09C0-4023-A482-769DFBDEA6F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{820FF283-B34F-40B5-B2D0-5A038BEC0D15}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{820FF283-B34F-40B5-B2D0-5A038BEC0D15}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{820FF283-B34F-40B5-B2D0-5A038BEC0D15}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{820FF283-B34F-40B5-B2D0-5A038BEC0D15}.Release|iPhone.Build.0 = Release|Any CPU
+		{820FF283-B34F-40B5-B2D0-5A038BEC0D15}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{820FF283-B34F-40B5-B2D0-5A038BEC0D15}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{820FF283-B34F-40B5-B2D0-5A038BEC0D15}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{820FF283-B34F-40B5-B2D0-5A038BEC0D15}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{B0633E21-09C0-4023-A482-769DFBDEA6F9}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{B0633E21-09C0-4023-A482-769DFBDEA6F9}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{B0633E21-09C0-4023-A482-769DFBDEA6F9}.Release|iPhone.ActiveCfg = Release|iPhone
+		{B0633E21-09C0-4023-A482-769DFBDEA6F9}.Release|iPhone.Build.0 = Release|iPhone
+		{B0633E21-09C0-4023-A482-769DFBDEA6F9}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{B0633E21-09C0-4023-A482-769DFBDEA6F9}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{B0633E21-09C0-4023-A482-769DFBDEA6F9}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{B0633E21-09C0-4023-A482-769DFBDEA6F9}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal
